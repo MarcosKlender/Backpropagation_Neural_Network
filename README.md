@@ -1,2 +1,11 @@
-# Backpropagation_Neural_Network
-Aprendizaje de patrones de una Red Neuronal Artificial. Resultado mostrado en un 7 segmentos.
+# Backpropagation Neural Network
+Este programa simula el aprendizaje de una RNA para representar los números dígitos y mostrarlos en un 7 segmentos.
+
+## Requerimientos
+Ninguno.
+
+## Uso
+Ejecutar "ProyectoFinal.exe".
+
+## Código Fuente
+Todas las líneas de código utilizada para el presente proyecto se encuentran en el archivo "RedNeuronal.h".
