@@ -14,7 +14,7 @@ Clonar o descargar el `.zip` del proyecto.
 - Elegir si se desea entrenar por error o por iteraciones.
 - Clic en el botón "**Entrenamiento**".
 
-Una vez que se muestre el panel de Resultados, en la sección de Patrón puede activar o desactivar los botones como si fuera unb 7 segmentos. De acuerdo a los botones que active, el valor estimado cambiará según el número que usted ha elegido.
+Una vez que se muestre el panel de Resultados, en la sección de Patrón puede activar o desactivar los botones como si fuera un 7 segmentos. De acuerdo a los botones que active, el valor estimado cambiará según el número que usted ha elegido.
 
 ## Código Fuente
-Todas las líneas de código utilizada para el presente proyecto se encuentran en el archivo "**RedNeuronal.h**".
+Todas las líneas de código utilizadas para el presente proyecto se encuentran en el archivo "**RedNeuronal.h**".
